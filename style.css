@@ -1,0 +1,43 @@
+.button {
+    background-color: #B68C5A;
+    color: aliceblue;
+
+  }
+  .my-bg{ 
+    background-image: url(./images/banner.png);
+    background-size: cover ;
+    background-repeat: no-repeat;
+  }
+  .card-img{
+    height: 50px;
+    width: 50px;
+    
+  
+    margin-left: 100px ;
+    }
+    /* .footer-color{
+      height: 300px; */
+    }
+    
+    }
+    .carousel-imgage{
+      height: ;
+      border-radius: 50%;
+    
+        }
+        .icon{
+          /* height: 50px;
+          width: 50px; */
+    background-color: #B68C5A;
+    border-radius: 50%;
+        }
+        .image{
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+        }
+      .fa-icon{
+          font-size: 40px;
+          /* margin-left: 20px ; */
+          text-align: center;
+        }
